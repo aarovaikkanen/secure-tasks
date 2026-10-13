@@ -4,13 +4,13 @@ Tavoite: turvallinen tehtävienhallinta-API + web-käyttöliittymä. 2 sessiota/
 Jos viikko jää kesken kurssikiireiden takia, siirrä koko suunnitelmaa viikolla eteenpäin.
 
 ## Viikko 1 – Työkalut pystyyn
-- [ ] S1: Asenna Python, Git, VS Code, PostgreSQL, Docker
-- [ ] S1: Luo GitHub-tili ja tyhjä repo
-- [ ] S2: Harjoittele Git-peruskomennot (add/commit/push/branch) testitiedostolla
-- [ ] S2: Luo FastAPI-projektin runko ja virtuaaliympäristö
+- [] S1: Asenna Python, Git, VS Code, PostgreSQL, Docker
+- [x] S1: Luo GitHub-tili ja tyhjä repo
+- [] S2: Harjoittele Git-peruskomennot (add/commit/push/branch) testitiedostolla
+- [x] S2: Luo FastAPI-projektin runko ja virtuaaliympäristö
 
 ## Viikko 2 – Ensimmäinen toimiva pala
-- [ ] S1: Tee `/health`-endpoint, testaa selaimessa/curl:lla
+- [x] S1: Tee `/health`-endpoint, testaa selaimessa/curl:lla
 - [ ] S2: Suunnittele tietokantamalli (käyttäjät + tehtävät) paperille
 - [ ] S2: Asenna SQLAlchemy ja yhdistä PostgreSQL:ään
 
