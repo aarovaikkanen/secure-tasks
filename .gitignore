@@ -1,0 +1,34 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# --- Virtuaaliympäristöt ---
+venv/
+.venv/
+env/
+
+# --- Ympäristömuuttujat ja salaisuudet ---
+.env
+.env.*
+*.pem
+*.key
+
+# --- Tietokanta ---
+*.db
+*.sqlite3
+
+# --- Docker ---
+*.log
+
+# --- Editorit / käyttöjärjestelmä ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# --- Node/frontend (jos käytät esim. React-frontendia) ---
+node_modules/
+dist/
+build/
